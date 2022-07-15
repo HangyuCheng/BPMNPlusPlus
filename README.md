@@ -3,6 +3,8 @@ This is the BPMN modeling element base extension mechanism, you can extend your 
 
 ## BPMNPlusPlus tool
 ![image](https://github.com/HangyuCheng/BPMNPlusPlus/blob/master/images/BPMN%20Extension.png)
+## BPMNPlusPlus meta-model
+![image](https://github.com/HangyuCheng/BPMNPlusPlus/blob/master/images/meta-model.png)
 ## Installing dependencies
 npm install
 ## Launch Project
